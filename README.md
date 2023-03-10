@@ -1,2 +1,2 @@
-# GAN_Model_ZOO
+# GAN_ZOO
 🦓
