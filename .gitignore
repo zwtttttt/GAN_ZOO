@@ -1,0 +1,16 @@
+*.jpg
+*.bmp
+*.png
+
+*.xml
+
+*.zip
+
+*events.out.*
+
+*.pyc
+
+*.DS_Store
+
+
+*.pth
